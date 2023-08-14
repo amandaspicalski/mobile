@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(89, 158, 175);
+}
+
+div{
+    width: 36%;
+    background-color: rgb(83, 212, 245);
+    padding: 1%;
+    border-color: aliceblue;
+    border-style: double;
+    border-width: 10px;
+    margin-left: 28%;
+    margin-top: 15%;
+}
